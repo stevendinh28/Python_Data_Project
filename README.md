@@ -1,26 +1,26 @@
 # Overview
-Welcome to my analysis of the data job market, focusing on data analyst roles. This project was created out of a desire to navigate and understand the job market more effectively. It delves into the top-paying and in-demand skills to help find optimal job opportunities for data analysts.
+Welcome to my analysis of the data job market, focusing on data analyst roles. This project was created to help new-grads navigate and understand the job market more effectively. It delves into the top-paying and in-demand skills to help find optimal job opportunities for data analysts.
 
-The data sourced from [Luke Barousse's Python Course](https://lukeb.co/python_repo) which provides a foundation for my analysis, containing detailed information on job titles, salaries, locations, and essential skills. Through a series of Python scripts, I explore key questions such as the most demanded skills, salary trends, and the intersection of demand and salary in data analytics.
+The data sourced from Luke Barousse's Python Course which provides a foundation for my analysis, containing detailed information on job titles, salaries, locations, and essential skills. Through a series of Python scripts, I explore key questions such as the most demanded skills, salary trends, and the intersection of demand and salary in data analytics.
 
 # The Questions
 Below are the questions I want to answer in my project:
 
-1. What are the skills most in demand for the top 3 most popular data roles?
+1. What are the high-demand skills for the top 3 most desired data roles?
 2. How are in-demand skills trending for Data Analysts?
-3. How well do jobs and skills pay for Data Analysts?
-4. What are the optimal skills for data analysts to learn? (High Demand AND High Paying)
+3. How well are Data Analysts paid for specific jobs and skills?
+4. What are the optimal skills for data analysts to learn? 
 
 # Tools I Used
-For my deep dive into the data analyst job market, I harnessed the power of several key tools:
+For my deep discovery of the data analyst job market, I leveraged several key tools:
 
-* **Python:** The backbone of my analysis, allowing me to analyze the data and find critical insights. I also used the following Python libraries:
-  * **Pandas Library:** This was used to analyze the data.
-  * **Matplotlib Library:** I visualized the data.
-  * **Seaborn Library:** Helped me create more advanced visuals.
+* **Python:** The backbone of my analysis, allowing me to analyze the data and find critical insights. I also applied the following Python libraries:
+  * **Pandas Library:** used to analyze the data.
+  * **Matplotlib Library:** for data visualization and creation of plots.
+  * **Seaborn Library:** this enhanced my data visualizations.
 * **Jupyter Notebooks:** The tool I used to run my Python scripts which let me easily include my notes and analysis.
 * **Visual Studio Code:** My go-to for executing my Python scripts.
-* **Git & GitHub:** Essential for version control and sharing my Python code and analysis, ensuring collaboration and project tracking.
+* **Git & GitHub:** Essential for version control and sharing my Python code and analysis.
 
 # The Analysis
 
@@ -125,7 +125,7 @@ plt.show()
 #### Results
 in-demand skills for data analysts in the US:
 
-![Highest Paid & Most In-Damand Skills for Data Analysts in the US](3.Project/images/skill_salary_DA.png)
+![Highest Paid & Most In-Demand Skills for Data Analysts in the US](3.Project/images/skill_salary_DA.png)
 
 ### Insights:
 - The top graph highlights that specialized technical skills like dplyr, Bitbucket, and GitLab are associated with some of the highest salaries among data analyst tools. This indicates a significant valuation for data management and manipulation expertise in the industry.
@@ -160,4 +160,4 @@ plt.show()
 
 # Conclusion
 
-This exploration of the data analyst job market has been incredibly informative, highlighting the critical skills and trends that shape this evolving field. The insights I got enhance my understanding and provide actionable guidance for anyone looking to advance their career in data analytics. As the market continues to change, ongoing analysis will be essential to stay ahead in data analytics. This project is a good foundation for future explorations and underscores the importance of continuous learning and adaptation in the data field.
+This discovery of the data analyst job market has been very informative, highlighting the critical skills and trends that shape this evolving field. The insights I discovered enhanced my perspective of the job market and are useful as a resource for anyone looking to advance their career in data analytics. As the market continues to evolve, ongoing analysis will be necessary to stay updated. This project is a good starting-point for future explorations and underscores the importance of continuous learning and adaptation in the data field.
