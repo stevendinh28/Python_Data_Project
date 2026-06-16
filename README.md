@@ -46,7 +46,7 @@ plt.show()
 ```
 ### Results
 
-![Visualization of Top Skills for Data Nerds](3.Project/images/skill_demand_data_roles.png)
+![Visualization of Top Skills for Data Nerds](3.Project/images/trending_skills.png)
 Line graph visualizing the most frequently requested skills for the top 3 popular data roles 
 ### Insights
 
