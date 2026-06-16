@@ -28,8 +28,6 @@ For my deep dive into the data analyst job market, I harnessed the power of seve
 
 To find the most demanded skills for the top 3 popular data roles, I filtered out those positions by their popularity, and retrieved the top 5 skills for each role. This query highlights the most popular job titles and their top skills, showing which skills should be prioritized depending on the role being targeted.
 
-View my notebook with detailed steps here:
-[2_Skill_Demand.ipynb](3.Project/images/skill_demand_data_roles.png)
 
 ### Visualize Data
 
@@ -46,7 +44,7 @@ plt.show()
 ```
 ### Results
 
-![Visualization of Top Skills for Data Nerds](3.Project/images/trending_skills.png)
+![Visualization of Top Skills for Data Nerds](3.Project/images/skill_demand_data_roles.png)
 Line graph visualizing the most frequently requested skills for the top 3 popular data roles 
 ### Insights
 
